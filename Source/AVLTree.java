@@ -88,8 +88,8 @@ public class AVLTree
 
 
     /*
-    * Function : rotateRight
-    * Description : Rotate the AVL tree to right
+    * Function : balanceTree
+    * Description : Balance Tree if needed
     * Order of Method : T(n) = O(1)
     */
     Node balanceTree(Node root)
