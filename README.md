@@ -6,4 +6,6 @@ if at any time they differ by more than one, re-balancing is done to restore thi
 Lookup, insertion, and deletion all take `O(log n)` time in both the average and worst cases, where `n` is the number of nodes in the tree prior to the operation.
 Insertions and deletions may require the tree to be rebalanced by one or more tree rotations.
 
-![AVL tree with balance factors (green)](Images/AVL.png)
+<p align="center">
+    <img src="Images/AVL.png">
+</p>
